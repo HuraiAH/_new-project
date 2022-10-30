@@ -1,0 +1,549 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+.social_profiles ul li a i {
+  margin-right: 29px;
+}
+.main_menu ul.nav.navbar-nav li a {
+  font-size: 17px;
+  padding: 8px 18px;
+}
+.logo a img {
+  width: 80%;
+}
+.slider_search h1 {
+  font-size: 36px;
+}
+.slider_content h1 {
+  font-size: 33px;
+}
+.slider_bottom_area {
+  top: -293px;
+}
+.tour_type_header h1 {
+  font-size: 43px;
+}
+.prev {
+  top: 355px;
+}
+.next {
+  top: 355px;
+}
+.tour_type_single h3 {
+  font-size: 20px;
+  left: 21px;
+  top: 88px;
+}
+.deal_header h1 {
+  font-size: 44px;
+}
+.deal_single h3 {
+  left: 62px;
+  padding: 9px 0;
+  top: 160px;
+  width: 155px;
+}
+.deal_single button {
+  padding: 10px 30px;
+}
+.gallery_header h1 {
+  font-size: 35px;
+}
+.blog_header h1 {
+  font-size: 44px;
+}
+.about_post_left img {
+  margin-right: 10px;
+}
+.about_post_left h4 {
+  font-size: 13px;
+}
+.about_post_left {
+  margin-bottom: -15px;
+}
+.travel_content h1 {
+  font-size: 74px;
+}
+.travel_content h2 {
+  font-size: 35px;
+}
+.britto {
+  margin-left: 230px;
+}
+.footer_single > h2 {
+  font-size: 25px;
+}
+.follow_us ul li {
+  margin-right: 13px;
+}
+
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+.logo a img {
+  width: 100%;
+}
+.main_menu ul.nav.navbar-nav li a {
+  font-size: 16px;
+  padding: 2px 18px;
+}
+.phone {
+  margin-right: 30px;
+  position:relative;
+  z-index:999;
+}
+.message {
+  margin-right: 30px;
+  position:relative;
+  z-index:999;  
+}
+.clock{
+  position:relative;
+  z-index:999;
+}
+.social_profiles {
+  float: left;
+  margin-left: 68px;
+  position: relative;
+  z-index: 999;
+}
+.social_profiles ul li a i {
+  margin-right: 26px;
+}
+.header_search {
+  border-left: 0 solid #3f434a;
+  padding: 7px 0 9px 45px;
+}
+.header_search input {
+  left: 545px;
+  top: 1px;
+}
+.slider_search {
+  padding: 10px 25px;
+}
+.slider_search h1 {
+  font-size: 29px;
+}
+.slider_search h4 {
+  font-size: 17px;
+}
+.slider_search input {
+  margin-bottom: 20px;
+  padding: 10px;
+}
+.slider_search img {
+  margin-top: 12px;
+  right: 40px;
+  width: 16px;
+}
+.slider_search button {
+  margin-bottom: 30px;
+  padding: 10px;
+}
+.slider_content {
+  margin-top: 150px;
+}
+.slider_content h1 {
+  font-size: 25px;
+}
+.slider_content h3 {
+  font-size: 20px;
+}
+.slider_bottom_area {
+  padding-bottom: 25px;
+  padding-top: 35px;
+  top: -246px;
+}
+.slider_bottom_content p {
+  font-size: 16px;
+}
+.tour_type_area {
+  margin-top: -246px;
+}
+.tour_type_header h1 {
+  font-size: 33px;
+}
+.tour_type_header p{
+  font-size:16px;
+}
+.prev {
+  top: 330px;
+}
+.next{
+  top: 330px;
+}
+.tour_type_single h3 {
+  font-size: 20px;
+  left: 20px;
+  top: 92px;
+}
+.deal_header h1 {
+  font-size: 38px;
+}
+.deal_single img {
+  width: 100%;
+}
+.deal_single {
+  margin-bottom: 40px;
+}
+.deal_area{
+  padding-top:70px;
+}
+.deal_header {
+  padding-bottom: 50px;
+}
+.deal_single h3 {
+  left: 240px;
+  padding: 12px 0;
+  top: 428px;
+  width: 200px;
+}
+.gallery_header {
+  padding-bottom: 60px;
+  padding-top: 70px;
+}
+.gallery_header h1 {
+  font-size: 40px;
+}
+.gallery_setion ul li {
+  width: 50%;
+}
+.absolute_korbo {
+  left: 25%;
+  top: 30%;
+}
+.blog_area {
+  padding-bottom: 60px;
+  padding-top: 70px;
+}
+.blog_header {
+  padding-bottom: 50px;
+}
+.blog_header h1 {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+.blog_header p {
+  font-size: 16px;
+}
+.blog_single img {
+  width: 100%;
+}
+.about_post_left img {
+  width: 15px !important;
+}
+.blog_single {
+  margin-bottom: 40px;
+}
+.blog_single h3 {
+  font-size: 28px;
+}
+.travel_content h1 {
+  font-size: 82px;
+}
+.footer_single {
+  margin-bottom: 30px;
+}
+.footer_area {
+  padding-bottom: 50px;
+}
+.footer_single input {
+  width: 85%;
+}
+.footer_single button {
+  right: 71px;
+}
+
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+.container{width:300px;}
+.header_top_area {
+  display: none;
+}
+.header_bottom_area {
+  padding-bottom: 5px;
+  padding-top: 25px;
+}
+.logo a img {
+  width: 50%;
+}
+.navbar-toggle {
+  border: 1px solid white;
+  margin-top: -32px;
+}
+.navbar-toggle .icon-bar {
+  background: white none repeat scroll 0 0;
+}
+.slider_content {
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+.slider_content h1 {
+  font-size: 27px;
+  line-height: 32px;
+  text-align: center;
+}
+.slider_content h3 {
+  font-size: 20px;
+}
+.slider_search {
+  padding: 15px 20px;
+  margin-bottom:55px;
+}
+.slider_search h1 {
+  font-size: 26px;
+}
+.slider_search h4 {
+  font-size: 16px;
+}
+.slider_search input {
+  margin-bottom: 20px;
+  padding: 10px;
+}
+.slider_search img {
+  right: 38px;
+  width: 15px;
+}
+.slider_search button {
+  margin-bottom: 20px;
+  padding: 10px;
+}
+.slider_bottom_area {
+  padding-top: 50px;
+  top: -310px;
+}
+.slider_bottom_content p {
+  font-size: 16px;
+}
+.tour_type_area {
+  margin-top: -309px;
+}
+.tour_type_header {
+  padding-bottom: 50px;
+  padding-top: 70px;
+}
+.tour_type_header h1 {
+  font-size: 30px;
+  line-height: 35px;
+  margin-bottom: 20px;
+}
+.tour_carousel {
+  margin-left: 35px;
+  padding-bottom: 100px;
+}
+.tour_type_single img {
+  width: 70%;
+}
+.tour_type_single h3 {
+  font-size: 18px;
+  left: 15px;
+  top: 82px;
+}
+.prev {
+  font-size: 50px;
+  left: 15px;
+  top: 415px;
+}
+.next {
+  font-size: 50px;
+  right: 15px;
+  top: 415px;
+}
+.deal_area {
+  padding-bottom: 60px;
+  padding-top: 70px;
+}
+.deal_header {
+  padding-bottom: 30px;
+}
+.deal_header h1 {
+  font-size: 21px;
+}
+.deal_single h3 {
+  left: 45px;
+  padding: 5px 0;
+  top: 127px;
+  width: 140px;
+}
+.deal_single button {
+  padding: 8px 25px;
+}
+.deal_single {
+  margin-bottom: 40px;
+}
+.gallery_header {
+  padding-bottom: 50px;
+  padding-top: 70px;
+}
+.gallery_header h1 {
+  font-size: 29px;
+  line-height: 35px;
+}
+.gallery_setion ul li {
+  float: none;
+  width: 100%;
+}
+.absolute_korbo h3 {
+  font-size: 21px;
+}
+.absolute_korbo {
+  left: 15%;
+  top: 25%;
+}
+.blog_header h1 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+.blog_header {
+  padding-bottom: 40px;
+}
+.blog_area {
+  padding-bottom: 70px;
+  padding-top: 70px;
+}
+.blog_header p {
+  font-size: 18px;
+}
+.blog_single h3 {
+  font-size: 17px;
+  margin-bottom: 15px;
+  padding-left: 0;
+}
+.about_post {
+  padding-left: 0;
+}
+.about_post_left h4 {
+  font-size: 13px;
+}
+.blog_single p {
+  padding-left: 0;
+}
+.blog_single {
+  margin-bottom: 35px;
+}
+.travel_content {
+  padding-bottom: 85px;
+  padding-top: 110px;
+}
+.travel_content h1 {
+  font-size: 55px;
+}
+.travel_content h2 {
+  font-size: 30px;
+}
+.britto {
+  height: 130px;
+  margin-left: 62px;
+  width: 130px;
+}
+.britto h4 {
+  left: 10px;
+  top: 55px;
+}
+.footer_single {
+  margin-bottom: 30px;
+}
+.footer_single > h2 {
+  margin-bottom: 20px;
+}
+.follow_us {
+  margin-bottom: 90px;
+}
+.footer_single button {
+  top: 45px;
+}
+.footer_area {
+  padding-bottom: 30px;
+  padding-top: 60px;
+}
+.copyright_area p {
+  font-size: 12px;
+}
+ 
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+.container{width:450px;}
+.logo a img {
+  width: 30%;
+}
+.navbar-toggle {
+  margin-top: -35px;
+}
+.slider_content h1 {
+  font-size: 30px;
+}
+.slider_search h1 {
+  font-size: 35px;
+}
+.slider_search h4 {
+  font-size: 20px;
+}
+.slider_bottom_area {
+  top: -309px;
+}
+.tour_type_single h3 {
+  font-size: 25px;
+  left: 46px;
+  top: 132px;
+}
+.tour_carousel {
+  margin-left: 60px;
+}
+.tour_type_single img {
+  width: 70%;
+}
+.prev {
+  left: 10px;
+  top: 365px;
+}
+.next {
+  right: 10px;
+  top: 365px;
+}
+.deal_header h1 {
+  font-size: 35px;
+}
+.deal_single img {
+  width: 100%;
+}
+.deal_single h3 {
+  left: 110px;
+  padding: 9px 0;
+  top: 232px;
+  width: 170px;
+}
+.gallery_header h1 {
+  font-size: 28px;
+  line-height: 0;
+}
+.gallery_setion ul li img {
+  width: 100%;
+}
+.absolute_korbo {
+  left: 30%;
+  top: 30%;
+}
+.blog_header h1 {
+  font-size: 40px;
+}
+.blog_single img {
+  width: 100%;
+}
+.about_post_left img {
+  width: 15px !important;
+}
+.blog_single h3 {
+  font-size: 25px;
+}
+.travel_content h1 {
+  font-size: 58px;
+}
+.britto {
+  margin-left: 164px;
+}
+.copyright_area p {
+  font-size: 16px;
+}
+    
+}
